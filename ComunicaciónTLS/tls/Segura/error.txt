@@ -1,0 +1,2 @@
+2015-04-05 17:33:42.822987 - ['f', 'f'] - ERROR - Usuario y/o contraseña no son correctos 
+2015-04-05 17:42:23.159155 - ['f', 'd'] - ERROR - Usuario y/o contraseña no son correctos 
